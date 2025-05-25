@@ -1,1 +1,1 @@
-# learning
+# I'm learning by hands-on , building projects, games, apps, etc. To learn how to for myself and make sure it sticks!
