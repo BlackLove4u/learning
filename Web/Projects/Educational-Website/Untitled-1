@@ -1,0 +1,39 @@
+Blog-Site/
+│
+├── index.html                    # Landing/home page
+│
+├── Frontend/
+│   ├── index.js                  # Main frontend logic
+│   ├── style.css                 # Main global styles
+│   └── Components/
+│       ├── BlogEditor.js         # Blog creation/editor interface
+│       ├── BlogList.js           # Renders blog previews
+│       └── BlogPost.js           # Renders full single blog posts
+│
+├── Backend/
+│   ├── server.py                 # Flask or Django server (if you're using Python)
+│   └── Models/
+│       └── content.py            # Stores/handles blog post data
+│
+└── Articles/
+    ├── big-heart.html            # First published blog article
+    └── [future-articles].html    # Add future articles here    Blog-Site/
+    │
+    ├── index.html                    # Landing/home page
+    │
+    ├── Frontend/
+    │   ├── index.js                  # Main frontend logic
+    │   ├── style.css                 # Main global styles
+    │   └── Components/
+    │       ├── BlogEditor.js         # Blog creation/editor interface
+    │       ├── BlogList.js           # Renders blog previews
+    │       └── BlogPost.js           # Renders full single blog posts
+    │
+    ├── Backend/
+    │   ├── server.py                 # Flask or Django server (if you're using Python)
+    │   └── Models/
+    │       └── content.py            # Stores/handles blog post data
+    │
+    └── Articles/
+        ├── big-heart.html            # First published blog article
+        └── [future-articles].html    # Add future articles here
